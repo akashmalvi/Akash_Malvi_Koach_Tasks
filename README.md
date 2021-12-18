@@ -8,8 +8,9 @@
          > pip install python
 
 3. Create a folder with any name in desktop
-4. Go to the created folder
-5. Create virtual environment : 
+4. Download the "TASK-1" file from the repository to the created folder
+5. Go to the created folder
+6. Create virtual environment : 
     in command prompt 
     run :
          > pip install virtualenv 
@@ -36,13 +37,14 @@
          > pip install python
 
 3. Create a folder with any name in desktop
-4. Go to the created folder
+4. Download the "TASK-1" file from the repository to the created folder
+5. Go to the created folder
 5. Create virtual environment : 
     in command prompt 
     run :
          > pip install virtualenv 
          > virtualenv myenv
-         > myenv\Scripts\activate
+         > myenv\Scripts\activate 
          
 6. go to myproject : 
     in command prompt 
