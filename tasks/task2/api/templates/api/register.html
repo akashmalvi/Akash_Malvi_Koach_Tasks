@@ -1,0 +1,25 @@
+{% extends "api/header.html" %}
+
+{% block content %} 
+
+        
+
+<!--Register--> 
+<div id="box" class="container py-5">
+	
+	<div id="fm">	
+<h1>Register</h1>
+
+	<form id="ff" method="POST">
+		{% csrf_token %}	
+		{{ register_form.as_p }}                    
+		<button id="bt" class="btn btn-primary btn-lg btn-block" type="submit">Register</button>
+	</form>
+	<p>If you already have an account, <a href="/login">login</a> instead.</p>
+
+	</div>
+
+</div>
+
+{% endblock %}
+

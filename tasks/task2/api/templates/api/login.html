@@ -1,0 +1,22 @@
+{% extends "api/header.html" %}
+
+{% block content %}      
+
+
+<div id="box" class="container py-5">
+  <div id="fm">
+  <h1>Login</h1>
+  <form id="ff" method="POST">
+    {% csrf_token %}
+    {{ login_form.as_p }}
+    <button id="bt" class="btn btn-primary btn-lg btn-block" type="submit">Login</button>
+  </form>
+  <p class="text-center">Don't have an account? <a href="/register">Create an account</a>.</p>
+</div>
+</div>
+
+
+{% endblock %}
+
+
+
