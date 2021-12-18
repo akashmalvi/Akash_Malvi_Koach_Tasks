@@ -37,7 +37,7 @@
          > pip install python
 
 3. Create a folder with any name in desktop
-4. Download the "TASK-1" file from the repository to the created folder
+4. Download the "TASK-2" file from the repository to the created folder
 5. Go to the created folder
 5. Create virtual environment : 
     in command prompt 
