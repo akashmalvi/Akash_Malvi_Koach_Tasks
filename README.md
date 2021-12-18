@@ -7,7 +7,7 @@
     run:
          > pip install python
 
-3. Create a folder with any name in desktop
+3. Create a folder with name "tasks" in desktop
 4. Download the "TASK-1" file from the repository to the created folder
 5. Go to the created folder
 6. Create virtual environment : 
@@ -30,13 +30,22 @@
 
 **TASK 2:**
 
+**If already executed Task 1**
+
+1. Download the "TASK-2" file from the repository to the created folder in desktop
+2. 
+
+
+
+
+**If not executed Task 1**
 
 1. open command propmt
 2. Install python :
     run:
          > pip install python
 
-3. Create a folder with any name in desktop
+3. Create a folder with name "tasks" in desktop
 4. Download the "TASK-2" file from the repository to the created folder
 5. Go to the created folder
 5. Create virtual environment : 
